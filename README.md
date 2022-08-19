@@ -27,6 +27,7 @@ To use in maven use:
 
 - Git to download repositories
 - Java and Maven to build it.
+- Node and NPM to get dependencies of contracts which can be quite a few and different versions.
 
 ## Generating the source files from contracts.
 It downloads the core and periphery git repositories to src/main/js and then runs web3j contract code generation to create java files to interact with the contracts.
