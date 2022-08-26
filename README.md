@@ -42,5 +42,5 @@ For this purpose do the following:
 
 ## Cleaning the files generated.
 
-To clean the downloaded git directory only run `mvn generate-sources -Pproject-clean`
-To clean the generated contracts code only run `mvn clean`
+To clean the downloaded git directory only run `mvn generate-sources -Pproject-clean`.
+To clean the generated contracts code only run `mvn clean`.
